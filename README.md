@@ -103,3 +103,8 @@ A：内容工厂类项目明确不自动发帖；其它项目以 README「不做
 bash scripts/smoke.sh
 ```
 
+
+
+## 下一步优化
+
+深优化清单（文档先行，代码下一轮）：[docs/OPTIMIZATION.md](docs/OPTIMIZATION.md)
